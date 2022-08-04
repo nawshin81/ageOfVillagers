@@ -9,9 +9,9 @@ There are four nation options in the game, Bangladeshi Farmers, Egyptian Kings, 
 - The nation information is not saved with the village in .aov file. The same village can be opened with different nations. 
     
 ### Functionalities
-  ###### Can create a new village.
-  ###### Can place objects in the village following the steps:
-  ###### Select a type of item from a radio button on the side panel.
+- Can create a new village.
+ - Can place objects in the village following the steps:
+  --Select a type of item from a radio button on the side panel.
   ###### Click on a location on the village.
   ######  Draw the selected item at that location.
   ###### Repeatedly click on different locations to place items of the selected type.

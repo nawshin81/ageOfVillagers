@@ -1,7 +1,7 @@
 # ageOfVillagers
 ### Details
 There are four nation options in the game, Bangladeshi Farmers, Egyptian Kings, Arab Bedouin, Inuit Hunters.
-- The village looks different for different nations. Specific look and feel will be discussed in separate issues.
+- The village looks different for different nations.
 - The objects (house, tree, water source) will vary.
 - The size of the water source will vary for nations.
 - The terrain (that means the background) will vary.
